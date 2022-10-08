@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=400&color=b92748&text=Wave,%20Matic%20here&fontColor=ffffff&desc=Founder%20and%20Developer&animation=fadein)
+
 Howdy 👋, My name is Matic Bončina
 =====================================================================================================================================
 
@@ -19,3 +21,5 @@ Somewhat of a developer with a generic Github README
 
 ### Badges
 <a href="http://www.github.com/maticboncina"><img src="https://github-readme-stats.vercel.app/api?username=maticboncina&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="maticboncina's GitHub stats" /></a><a href="https://github.com/maticboncina" align="left">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=b92748&height=150&section=footer)
