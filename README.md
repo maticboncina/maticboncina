@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=400&color=b92748&text=Wave,%20Matic%20here&fontColor=ffffff&desc=Founder%20and%20Developer&animation=fadein)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=350&color=b92748&text=Wave,%20Matic%20here&fontColor=ffffff&desc=Founder%20and%20Developer&animation=fadein)
 
 Howdy 👋, My name is Matic Bončina
 =====================================================================================================================================
